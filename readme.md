@@ -1,6 +1,6 @@
 # How to use the system
 
-1. Download and install [Carla 0.9.12 (linux)](https://carla.readthedocs.io/en/0.9.12/build_linux/), then make sure you can open CarlaUE4.uproject with UE4.24 successfully. 
+1. Download and install [Carla 0.9.12 (linux)](https://carla.readthedocs.io/en/0.9.12/build_linux/), then make sure you can open `CarlaUE4.uproject` with UE4.24 successfully. 
 
 2. Replace the content in [google dive](https://drive.google.com/file/d/18sRkoTZ3TR0q4BWdiJXCQb-6mr4TEU3Y/view?usp=sharing) to `~/Carla/Unreal/CarlaUE4/Content/Carla/` folder.
 3. Recompile the project.
@@ -16,24 +16,6 @@
      - Choose start time, end time and time interval.
    - Step 5: Show result
      - Show global path, local path and details of each shot.
-
-
-
-# 3D Reconstruction
-
-1. 三维重建细节；
-2. 导入动态元素；carla
-
-
-
-
-
-# Time-lapse photography dataset
-
-1. 数据集正负样本展示；
-2. ；
-
-
 
 
 
