@@ -17,5 +17,7 @@
    - Step 5: Show result
      - Show global path, local path and details of each shot.
 
+## System Demo
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/sYFglVIJXd8/0.jpg)](http://www.youtube.com/watch?v=sYFglVIJXd8 )
 
 
